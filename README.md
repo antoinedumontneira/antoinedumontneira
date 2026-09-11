@@ -7,12 +7,17 @@
 
 # Technical interests:
 
+- Astronomy: Data reduction, kinematics using spectroscopy, stellar and gas dynamical modelling
 
-
+- Machine Learning: Numerical modelling, data visualisation, PCA, NN, unsupervised image classification and mroe.
 
 You can find my work and publications here:
-- NASA ADS: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&q=((author%3A%22Antoine%20Dumont%22)%20AND%20year%3A2019-2026)&sort=date%20desc%2C%20bibcode%20desc&ui_tag=results%2Fgraph%2Fyear&p_=0
--ORCID: https://orcid.org/my-orcid?orcid=0000-0003-0234-3376
+- [Personal website](https://antoinedumontneira.github.io/)
+- [NASA ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&q=((author%3A%22Antoine%20Dumont%22)%20AND%20year%3A2019-2026)&sort=date%20desc%2C%20bibcode%20desc&ui_tag=results%2Fgraph%2Fyear&p_=0)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0234-3376)
+
+You can reach me:
+[Linkedin](https://www.linkedin.com/in/antoine-dumont-13045313b/)
  
 <!--
 **antoinedumontneira/antoinedumontneira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
