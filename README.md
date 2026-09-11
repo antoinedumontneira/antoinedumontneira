@@ -3,7 +3,7 @@
 
  I am observational astrophysicist from Chile with a focus in the study supermassive black holes. Supermassive black holes are found in the centers of most massive galaxies, and my research is focus in detecting them using high-resolution spectroscopy to understand the environment where this black holes grow. 
 
-  I do love the observational aspect of astronomy and working with real data, therefore I am interested in computational side of astronomy, I have extensive experience working with data reduction, developing pipelines and data quality. I also enjoy applying machine learning to help us understand question related of black holes population. 
+  I do love the observational aspect of astronomy and working with real data, therefore I enjoy the computational and coding side of astronomy, I have experience working with data reduction, developing pipelines and data quality. I also enjoy applying numerical models and machine learning to understand question related of black holes population. 
 
 # Technical interests:
 
